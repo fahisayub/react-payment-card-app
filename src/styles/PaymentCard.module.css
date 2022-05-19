@@ -1,0 +1,14 @@
+.card{
+    width: 600px;
+    height: 330px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
